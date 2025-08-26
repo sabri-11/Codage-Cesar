@@ -18,4 +18,5 @@ puis en l'exécutant avec la commande (en remplaçant decalage par le nombre de 
 **./cesar_codage mon_fichier.txt decalage sortie.txt**
 
 par exemple vous pouvez l'exécuter avec : ./cesar_codage mon_fichier.txt 3 sortie.txt
+
 alors le décalage de votre message chiffré sera de 3 par rapport au fichier d'origine.
