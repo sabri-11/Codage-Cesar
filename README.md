@@ -9,10 +9,10 @@ places. Par exemple, si le décalage vaut trois, alors la lettre ’a’ devient
 ’c’. Le destinataire du message doit connaître ce décalage afin de pouvoir l’appliquer (de façon inversée)
 sur le message chiffré et obtenir le message.
 _________________________________________________________________________________________
-Vous pouvez tester ce programme en le compilant depuis un terminal à l'aide de la commande :
+Vous pouvez tester ce programme en le compilant depuis un terminal à l'aide de la commande : \n
 **gcc -Wall -Wfatal-errors cesar_codage.c -o cesar_codage**
 
-puis en l'exécutant avec la commande (en remplaçant decalage par le nombre de votre choix) :
+puis en l'exécutant avec la commande (en remplaçant decalage par le nombre de votre choix) : \n
 **./cesar_codage mon_fichier.txt decalage sortie.txt**
 
 par exemple vous pouvez l'exécuter avec : ./cesar_codage mon_fichier.txt 3 sortie.txt
