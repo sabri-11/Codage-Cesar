@@ -2,6 +2,7 @@ Codage de César
 --------------------------------------
 
 Bonjour, 
+
 Ce programme permet de chiffrer un texte à l'aide du codage de César.
 
 Le chiffre de César consiste à décaler, dans un message, toutes les lettres d’un certain nombre de
